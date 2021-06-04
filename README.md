@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Success-Vera
-- 👀 I’m interested in Machine Learning, Artificial Intelligence and Robotics
+- 👀 I’m interested in Machine Learning and Artificial Intelligence 
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects on Machine Learning
 - 📫 How to reach me ifysuccessvera@gmail.com
