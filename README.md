@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Success-Vera
-- 👀 I’m interested in Machine Learning and Artificial Intelligence 
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on projects on Machine Learning
-- 📫 How to reach me ifysuccessvera@gmail.com
+Hello, my name is Ifeoma Veronica Nwabufo. I have a bachelor's degree in Mathematics and currently undergoing a masters degree in Big Data. I am interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Big Data. I like writing and teaching. 
+
+You can reach me on ifysuccessvera@gmail.com
 
 <!---
 Success-Vera/Success-Vera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
