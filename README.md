@@ -1,4 +1,4 @@
-Hello, my name is Ifeoma Veronica Nwabufo. I have a bachelor's degree in Mathematics and currently undergoing a masters degree in Big Data. I am interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Big Data. I like writing and teaching. 
+Hello, my name is Ifeoma Veronica Nwabufo. I have a bachelor's degree in Mathematics and completed a masters degree in Mathematical Sciences with a major in Big Data. I am interested in Artificial Intelligence, Machine Learning, Deep Learning, Data Science and Big Data. I like writing and teaching. 
 
 You can reach me on ifysuccessvera@gmail.com
 
